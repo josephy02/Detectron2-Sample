@@ -1,6 +1,6 @@
 # Panoptic Segmentation using Detectron2
 
-This folder contains scripts for handling COCO-formatted datasets, performing image augmentations, and generating panoptic and semantic segmentation masks for computer vision tasks (e.g segmentation, classification, etc). Additionally, it includes a Jupyter Notebook, `detectron2.ipynb`, which demonstrates training and evaluation of panoptic image segmentation for predefined classes. While the default configuration specifies a model and classes, these can be customized. Note that the behavior of the outputs in the notebook is influenced by the selected model and class definitions. Below is a detailed description of each file and its functionality. NOTE: will be updated this with additional supplementary files.
+This folder contains scripts for handling COCO-formatted datasets, performing image augmentations, and generating panoptic and semantic segmentation masks for computer vision tasks (e.g segmentation, classification, etc). Additionally, it includes a Jupyter Notebook, `detectron2.ipynb`, which demonstrates training and evaluation of panoptic image segmentation for predefined classes. While the default configuration specifies a model and classes, these can be customized. Note that the behavior of the outputs in the notebook is influenced by the selected model and class definitions. Below is a detailed description of each file and its functionality. NOTE: I'll be updated this with additional supplementary files!
 ---
 
 ## Files and Descriptions
